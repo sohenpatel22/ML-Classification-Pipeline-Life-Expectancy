@@ -31,7 +31,7 @@ Instead of focusing on a single algorithm, I wanted to:
 ## Project Structure
 
 ```id="proj-structure"
-life_expectancy_project/
+ML-Classification-Pipeline-Life-Expectancy/
 │
 ├── data/
 │   └── LifeExpectancy.csv
@@ -165,4 +165,6 @@ To understand model decisions:
 
 ## Final Thoughts
 
-This project helped me understand how to design machine learning systems in a structured way, focusing on reproducibility, evaluation, and interpretability rather than just model performance.
+This project demonstrates how to design machine learning systems that are not only accurate, but also reproducible, interpretable, and production-aware.
+
+The focus on pipelines, cross-validation, and explainability reflects practices used in real-world machine learning workflows.
